@@ -1,7 +1,7 @@
 using DCP.Exercises.Problem_001;
 using NUnit.Framework;
 
-namespace DCP.Tests
+namespace DCP.Tests.Problem_001
 {
     public class WhenArrayHasNumbersThatAddUpToK
     {
